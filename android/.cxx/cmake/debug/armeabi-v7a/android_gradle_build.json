@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "/home/ali/Workspace/Ayalma/fserial/android/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/home/ali/development/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"serial_port-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "serial_port",
+			"buildCommand" : "/home/ali/development/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/armeabi-v7a --target serial_port",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/ali/development/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/ali/development/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dserial_port_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/ali/Workspace/Ayalma/fserial/ios/Classes/serial_port.cpp",
+					"workingDirectory" : "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so",
+			"toolchain" : "8912704589904439096"
+		}
+	},
+	"toolchains" : 
+	{
+		"8912704589904439096" : 
+		{
+			"cCompilerExecutable" : "/home/ali/development/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/ali/development/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

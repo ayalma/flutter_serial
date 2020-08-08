@@ -1,0 +1,8 @@
+Executable : /home/ali/development/Android/Sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+--build
+/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/x86_64
+--target
+serial_port
+jvmArgs : 
+

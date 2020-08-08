@@ -1,0 +1,2 @@
+[1/2] Building CXX object CMakeFiles/serial_port.dir/home/ali/Workspace/Ayalma/fserial/ios/Classes/serial_port.cpp.o
+[2/2] Linking CXX shared library /home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates/cmake/debug/obj/x86_64/libserial_port.so

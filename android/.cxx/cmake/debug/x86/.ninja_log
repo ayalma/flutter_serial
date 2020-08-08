@@ -1,0 +1,9 @@
+# ninja log v5
+0	27	0	CMakeFiles/serial_port.dir/home/ali/Workspace/Ayalma/fserial/ios/Classes/serial_port.cpp.o	569653260770468d
+27	47	0	/home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates/cmake/debug/obj/x86/libserial_port.so	b00e807e0dbea3bf
+2	861	0	CMakeFiles/serial_port.dir/home/ali/Workspace/Ayalma/fserial/ios/Classes/serial_port.cpp.o	569653260770468d
+862	909	0	/home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates/cmake/debug/obj/x86/libserial_port.so	b00e807e0dbea3bf
+1	886	0	CMakeFiles/serial_port.dir/home/ali/Workspace/Ayalma/fserial/ios/Classes/serial_port.cpp.o	569653260770468d
+886	904	0	/home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates/cmake/debug/obj/x86/libserial_port.so	b00e807e0dbea3bf
+1	836	0	CMakeFiles/serial_port.dir/home/ali/Workspace/Ayalma/fserial/ios/Classes/serial_port.cpp.o	569653260770468d
+836	852	0	/home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates/cmake/debug/obj/x86/libserial_port.so	b00e807e0dbea3bf

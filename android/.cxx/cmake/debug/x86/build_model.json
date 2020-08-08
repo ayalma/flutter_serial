@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/ali/Workspace/Ayalma/fserial/example/android",
+      "sdkFolder": "/home/ali/development/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates",
+      "gradleModulePathName": ":fserial",
+      "moduleRootFolder": "/home/ali/Workspace/Ayalma/fserial/android",
+      "makeFile": "/home/ali/Workspace/Ayalma/fserial/android/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/ali/Workspace/Ayalma/fserial/example/android/.cxx",
+      "cxxFolder": "/home/ali/Workspace/Ayalma/fserial/android/.cxx",
+      "ndkFolder": "/home/ali/development/Android/Sdk/ndk/21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates/cmake/debug/lib",
+    "objFolder": "/home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates/cmake/debug/obj",
+    "jsonFolder": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/x86",
+  "jsonFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/x86/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cxx/debug/x86",
+  "objFolder": "/home/ali/Workspace/Ayalma/fserial/example/build/fserial/intermediates/cmake/debug/obj/x86",
+  "buildCommandFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/x86/build_command.txt",
+  "buildOutputFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/x86/build_output.txt",
+  "modelOutputFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/x86/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cxx/debug/x86/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cxx/debug/x86/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cxx/debug/x86/build_generation_state.json",
+    "cacheKeyFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cxx/debug/x86/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cxx/debug/x86/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cxx/debug/x86/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cxx/debug/x86/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/x86/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/ali/Workspace/Ayalma/fserial/android/.cxx/cmake/debug/x86/compile_commands.json"
+}
